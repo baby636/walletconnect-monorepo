@@ -28,7 +28,7 @@
     "@json-rpc-tools/types": "^1.7.2",
     "keyvaluestorage": "^0.7.1",
     "pino": "^6.7.0",
-    "pino-pretty": "^4.3.0"
+    "pino-pretty": "^4.7.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
