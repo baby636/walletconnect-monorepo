@@ -43,7 +43,7 @@
     "@typescript-eslint/eslint-plugin": "^2.24.0",
     "@typescript-eslint/parser": "^2.24.0",
     "core-js": "^3.6.5",
-    "eslint": "^5.16.0",
+    "eslint": "^7.16.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.20.1",
@@ -56,6 +56,6 @@
     "prettier": "^1.19.1",
     "typescript": "^3.7.5",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^4.0.0"
   }
 }
