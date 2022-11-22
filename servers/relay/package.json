@@ -36,7 +36,7 @@
     "@types/pino": "^6.3.5",
     "axios": "^0.21.1",
     "enc-utils": "^3.0.0",
-    "fastify": "^3.10.1",
+    "fastify": "^3.29.4",
     "fastify-helmet": "^5.1.0",
     "fastify-websocket": "^3.0.0",
     "pino": "^6.11.0",
