@@ -42,7 +42,7 @@
     "@walletconnect/qrcode-modal": "^2.0.0-alpha.20",
     "@walletconnect/types": "^2.0.0-alpha.42",
     "@walletconnect/utils": "^2.0.0-alpha.42",
-    "axios": "^0.21.1",
+    "axios": "^1.6.3",
     "blockies-ts": "^1.0.0",
     "caip-api": "^1.4.6",
     "eth-sig-util": "^2.5.3",
