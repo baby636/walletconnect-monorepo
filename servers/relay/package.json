@@ -34,7 +34,7 @@
     "@json-rpc-tools/utils": "^1.7.2",
     "@pedrouid/pino-utils": "^1.0.1",
     "@types/pino": "^6.3.5",
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "enc-utils": "^3.0.0",
     "fastify": "^3.10.1",
     "fastify-helmet": "^5.1.0",
