@@ -38,7 +38,7 @@
     "enc-utils": "^3.0.0",
     "fastify": "^3.10.1",
     "fastify-helmet": "^5.1.0",
-    "fastify-websocket": "^3.0.0",
+    "fastify-websocket": "^3.2.1",
     "pino": "^6.11.0",
     "pino-pretty": "^4.3.0",
     "prom-client": "^13.0.0",
