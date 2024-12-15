@@ -29,7 +29,7 @@
     "lint": "eslint -c '../../.eslintrc' --fix './src/**/*.ts'"
   },
   "dependencies": {
-    "@json-rpc-tools/utils": "^1.7.2",
+    "@json-rpc-tools/utils": "^1.7.6",
     "axios": "^0.21.1",
     "bluebird": "^3.5.5",
     "enc-utils": "^3.0.0",
@@ -61,7 +61,7 @@
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "core-js": "^3.6.5",
-    "mocha": "^8.2.1",
+    "mocha": "^10.3.0",
     "prettier": "^1.19.1",
     "ts-node": "^9.0.0",
     "typescript": "^3.7.5"
