@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@json-rpc-tools/utils": "^1.7.2",
-    "axios": "^0.21.1",
+    "axios": "^1.12.0",
     "bluebird": "^3.5.5",
     "enc-utils": "^3.0.0",
     "fastify": "^3.4.1",
@@ -49,7 +49,7 @@
     "@babel/preset-env": "^7.12.1",
     "@babel/preset-typescript": "^7.12.1",
     "@babel/register": "^7.12.1",
-    "@types/axios": "^0.14.0",
+    "@types/axios": "^0.14.4",
     "@types/bluebird": "^3.5.27",
     "@types/chai": "^4.2.14",
     "@types/chai-http": "^4.2.0",
